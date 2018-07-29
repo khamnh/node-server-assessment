@@ -5,4 +5,5 @@
 3. Import jsondata in config folder into Mongo DB. (mongoimport --db db_name --collection collection_name --file file_path --jsonArray)
 4. Run command line: npm install to install dependencies and libraries.
 5. Run command line: npm start to start server.
+<br/>
 Just only tested on Ubuntu 16.04
